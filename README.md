@@ -1,2 +1,2 @@
 # Practice3
-Inproved version of lab9
+Improved version of lab9
